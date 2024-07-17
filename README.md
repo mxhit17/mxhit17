@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mxhit17 and you can call me Mohit.
-- 👀 I’m interested in Data Science, Web Development.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👀 I’m interested in Data Science, Mobile Development.
+- 🌱 I’m currently learning Flutter.
 - 📫 Reach me at https://www.linkedin.com/mxhit17
 
 <!---
