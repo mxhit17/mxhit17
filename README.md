@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mxhit17 and you can call me Mohit.
-- 👀 I’m interested in Mobile Development, Data Science.
+- 👀 I’m interested in Mobile Development, Problem Solving.
 - 🌱 I’m currently learning Flutter.
 - 📫 Reach me at https://www.linkedin.com/mxhit17
 
